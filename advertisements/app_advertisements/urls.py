@@ -7,6 +7,6 @@ urlpatterns = [
     path('register.html',register, name = 'register'),
     path('login.html',login, name = 'login'),
     path('profile.html',profile, name = 'profile'),
-    path('advertisement-post.html',advertisement, name = 'advertisement'),
+    path('advertisement.html',advertisement, name = 'advertisement'),
     path('advertisement-post.html',post, name = 'post' )
 ]
